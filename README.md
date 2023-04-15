@@ -5,7 +5,7 @@
     Link del repositorio: https://github.com/Enriquepardo/Ejercicios-de-excepciones.git
 
 ## Índice 
-    
+    El ejercico esta resuelto en el archivo "excepciones.py".
     
     
 #### Enunciado:
