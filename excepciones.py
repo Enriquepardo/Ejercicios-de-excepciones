@@ -26,7 +26,7 @@ def login():
                 raise UnrecognizedEmailError
 
             nombre = email.split('@')[0]
-            print(f'Bienvenido {nombre.capitalize()}!')
+            print(f'¡Bienvenido {nombre.capitalize()}!')
             break
         except EmptyEmailError:
             print('" " no es un email valido. Introduce un email valido.')
